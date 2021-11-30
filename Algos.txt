@@ -1,0 +1,9 @@
+1. Decide which restaurant you want to order from.
+2. Decide the size of the pizza you want and the toppings you want.
+3. Call the restaurant.
+4. Order your pizza.
+5 a. Pay for your pizza over the phone.
+  b. Pay when your pizza gets delivered.
+6. Wait for delivery
+7. Greet delivery driver
+8. Enjoy your pizza!
