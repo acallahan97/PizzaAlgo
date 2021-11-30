@@ -7,3 +7,5 @@
 6. Wait for delivery
 7. Greet delivery driver
 8. Enjoy your pizza!
+9. If order is wrong, call pizza restaurant and request corrections to order
+10. Repeat steps 4-8.
